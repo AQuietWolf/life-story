@@ -3,7 +3,8 @@
 }
 .title_class{
     font-size: 4rem;
-    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
     border: 5px solid black;
     padding: 5px;
 }
