@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 i am the undertaker
-=======
-
-i am a loser
-=======
-
->>>>>>> 42e48351590744e010c750f4b75ff7370d6f0b2f
