@@ -4,6 +4,8 @@
 .title_class{
     font-size: 4rem;
     font-style: italic;
+    border: 5px solid black;
+    padding: 5px;
 }
 .desc{
     font-family: 'Courier New', Courier, monospace;
