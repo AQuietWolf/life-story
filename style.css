@@ -1,14 +1,13 @@
 *{
     text-align: center;
+    font-family: cursive;
 }
 .title_class{
     font-size: 4rem;
-    font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
     border: 5px solid black;
     padding: 5px;
 }
 .desc{
-    font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
 }
